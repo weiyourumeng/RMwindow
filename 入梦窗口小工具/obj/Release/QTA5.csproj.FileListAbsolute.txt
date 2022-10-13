@@ -1,9 +1,0 @@
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\bin\Release\RMwindow.exe
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\bin\Release\RMwindow.pdb
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\QTA5.csproj.AssemblyReference.cache
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\QTA5.Form1.resources
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\QTA5.Properties.Resources.resources
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\QTA5.csproj.GenerateResource.cache
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\QTA5.csproj.CoreCompileInputs.cache
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\RMwindow.exe
-E:\VS\C#源码\入梦工具箱\入梦窗口小工具\obj\Release\RMwindow.pdb
